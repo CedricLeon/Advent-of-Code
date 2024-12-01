@@ -10,3 +10,9 @@ VSCode + Python notebooks
 @TODO: don't be an ass and just copy paste common functions in each notebook. Store them in a `.py`.
 Thanks,
 your future self
+
+### Template
+Copy the template resources in a new folder
+```
+cp -a 2024/template/. 2024/<new_day_number>
+```
