@@ -5,6 +5,10 @@ For version control, and because I think it can be fun, I'll try to save/write d
 ## 2024
 ***
 First year joining in, got peer-pressured, not sure how much time I have.
+
+### Copilot
+I use GitHub Copilot to find moreoptimized solution or unstuck me when I realize my method won't work. I don't consider I'm competing against anyone, I just wanna learn a few new skills and have fun.
+(In general, I also get inspiration from other people's solution when I'm not smart or awake enough to solve the puzzle myself.)
 ### Setup
 VSCode + Python notebooks
 @TODO: don't be an ass and just copy paste common functions in each notebook. Store them in a `.py`.
